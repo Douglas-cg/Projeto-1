@@ -4,4 +4,5 @@
 
 😃 Estou muito animado para esse desafio!
 
-Fazendo alterações direto no visual studio code.
+💬 Fazendo alterações direto no visual studio code.
+
